@@ -8,7 +8,8 @@ public class Main {
             if(flag == true) {
                 System.out.println("Value of flag is true");
             } else {
-                System.out.println("Value of flag is false");
+                System.out.println("hello Kristina");
+
             }
 
 
